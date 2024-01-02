@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background: rgb(241, 218, 210);
+}
+
+
+.F_S_D{
+    float: left;
+}
+
+.F_S img{
+    width: 500px;
+    margin-top: 1%;
+}
+
+.F_S_D_P_1{
+    margin-top: 10%;
+    margin-left: 6%;
+}
+
+.F_S_D_P_1 h4{
+    font-size: 25px;
+}
+
+.F_S_D_P_1 h2{
+    font-size: 40px;
+    margin-bottom: 3%;
+    color: orange;
+}
+
+.F_S_D_P_1 p{
+    color: gray;
+    margin-bottom: 4%;
+}
+
+.F_S_D_P_1 button{
+    padding: 15px 35px;
+    background: orange;
+    border: 3px solid orange;
+    border-radius: 4%;
+}
+
+.F_S_D_P_1 a{
+    text-decoration: none;
+    color: white;
+}
+
+
+
+/* ------------------------------------------------------------ */
+
+.S_S_D_P_1{
+    width: 400px;
+    margin-left: 4%;
+}
+
+.S_S_D{
+    float: left;
+}
+
+.S_S_D_P_2{
+margin-left: 4.5%;
+margin-top: 11%;
+}
+
+.S_S_D_P_2 h2{
+    font-size: 28px;
+    margin-bottom: 3%;
+}
+
+.S_S_D_P_2 p{
+    color: grey;
+    margin-bottom: 3%;
+}
+
+.S_S_D_P_2 button{
+    padding: 15px 35px;
+    background: orange;
+    border: 7px solid orange;
+    border-radius: 3%;
+    margin-bottom: 60%;
+}
+
+.S_S_D_P_2 a{
+    text-decoration: none;
+    color: white;
+}
+
+/* ----------------------------------------------- */
+
+.Parent_T_S_D_IMG h3{
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 3%;
+}
+
+.T_S_D_IMG img{
+    width: 270px;
+}
+
+.T_S_D_IMG{
+    float: left;
+    margin-left: 50px;
+    margin-top:2%;
+    margin-bottom: 15%;
+}
+    
+
+/* ----------------------------------- */
+
+.F_Class .F_Div_1{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.F_Div_1 h2{
+    font-size: 35px;
+    margin-bottom: 6%;
+    
+}
+
+.F_Div_1 h4{
+color: black;
+margin-bottom: 1%;
+}
+
+.F_Div_1 h6{
+    margin-bottom: 4%;
+}
+
+.F_Div_1 h6{
+    color: gray;
+}
+
+.F_Div_1 p{
+    color: gray;
+}
+
+#DV{
+height: 135px;
+width: 60%;
+background: rgb(197, 27, 197);
+margin-left: 22%;
+border-radius: 2%;
+margin-bottom: 4%;
+
+}
+#DV p{
+    text-align: center;
+    color: aliceblue;
+    font-size: 14px;
+    padding-top: 6%;
+    padding-bottom: 2%;
+}
+
+#DV h3{
+    text-align: center;
+    color: aliceblue;
+}
+
+.last_h5{
+    text-align: center;
+    color: grey;
+    margin-bottom: 2%;
+}
+
+/* ------------------------------------------------------------ */
+
